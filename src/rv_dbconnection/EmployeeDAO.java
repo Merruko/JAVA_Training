@@ -16,7 +16,7 @@ public class EmployeeDAO {
 	private static final String url = 
 			"jdbc:oracle:thin:@localhost:1521:orcl";
 	private static final String user = 
-			"hr";
+			"HR";
 	private static final String pwd = 
 			"1234";
 	
